@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "title": "Novità di Novembre",
+      "date": "22-11-2025",
+      "type": "333 2221155",
+      "message": "Restate sintonizzati."
+    },
+    {
+      "title": "Evento Speciale",
+      "date": "21-12-2024",
+      "type": "info",
+      "message": "Partecipa all'evento di Natale per monete extra!"
+    }
+  ]
+}
