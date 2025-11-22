@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "title": "Nuovo Aggiornamento versione 1.2",
+      "date": "12-11-2025",
+      "type": "update",
+      "message": "Nuovo sistema missioni, bug fix e ottimizzazioni."
+    },
+    {
+      "title": "Nuovo Evento Speciale",
+      "date": "14-02-2025",
+      "type": "info",
+      "message": "Partecipa all'evento di San Valentino per monete extra!"
+    },
+    {
+      "title": "Manutenzione Programmata Dicembre 2025",
+      "date": "14-12-2025",
+      "type": "warning",
+      "message": "I server saranno offline dalle 2 alle 4 del mattino."
+    }
+  ]
+}
