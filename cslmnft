@@ -12,12 +12,7 @@
     },
     {
       "title": "Supermarket",
-      "type": "promo",
-      "message": "Pronti per l'estate?",
-      "contatti": {
-        "telefono": "+39 333 1234567",
-        "email": "info@example.com"
-      }
+      "indirizzo": "Piazza Castello, 25"
     },
     {
       "title": "Supermarket",
