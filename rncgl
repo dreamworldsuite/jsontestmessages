@@ -13,6 +13,7 @@
     {
       "title": "Negozio",
       "message": "Orario 8-12",
+      "type": "update",
       "telefoni": [
         "+39 333 1234567",
         "+39 320 9998877"
