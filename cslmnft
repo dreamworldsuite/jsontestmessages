@@ -39,6 +39,10 @@
       "date": "22-11-2025", "type": "error",
       "title": "Negozio",
       "indirizzo": "Piazza Castello, 25",
+      "contatti": {
+        "telefono": "+39 333 1234567",
+        "email": "info@example.com"
+      },
       "telefoni": [
         "+39 333 1234567",
         "+39 320 9998877"
@@ -48,6 +52,10 @@
     {
       "date": "22-11-2025", "type": "update",
       "title": "Supermarket",
+      "telefoni": [
+        "+39 333 1234567",
+        "+39 320 9998877"
+      ],
       "contatti": {
         "telefono": "+39 333 1234567",
         "email": "info@example.com"
