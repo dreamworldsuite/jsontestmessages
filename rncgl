@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "title": "Evento Speciale",
+      "date": "15-08-2025",
+      "type": "info",
+      "message": "Pronti per l'estate?"
+    },
+    {
+      "title": "Negozio,
+      "date": "Cell.",
+      "type": "333 4445566",
+      "message": "Orario 8-12"
+    }
+  ]
+}
