@@ -1,7 +1,7 @@
 {
   "news": [
     {
-      "date": "22-11-2025", "type": "update",
+      "date": "22-11-2025", "type": "Aggiornamento",
       "title": "Supermarket",
       "contatti": {
         "telefono": "+39 333 1234567",
@@ -11,13 +11,13 @@
       "message": "Pronti per l'estate?"
     },
     {
-      "date": "22-11-2025", "type": "info",
+      "date": "22-11-2025", "type": "Informazione",
       "title": "Supermarket",
       "indirizzo": "Piazza Castello, 25",
       "message": "Pronti per l'estate?"
     },
     {
-      "date": "22-11-2025", "type": "promo",
+      "date": "22-11-2025", "type": "Annuncio",
       "title": "Supermarket",
       "contatti": {
         "telefono": "+39 333 1234567",
@@ -26,7 +26,7 @@
       "message": "Pronti per l'estate?"
     },
     {
-      "date": "22-11-2025", "type": "warning",
+      "date": "22-11-2025", "type": "Avvertimento",
       "title": "Negozio",
       "telefoni": [
         "+39 333 1234567",
@@ -36,7 +36,7 @@
       "message": "Orario 8-12"
     },
     {
-      "date": "22-11-2025", "type": "error",
+      "date": "22-11-2025", "type": "Errore",
       "title": "Negozio",
       "indirizzo": "Piazza Castello, 25",
       "contatti": {
@@ -50,7 +50,7 @@
       "message": "Orario 8-12"
     },
     {
-      "date": "22-11-2025", "type": "update",
+      "date": "22-11-2025", "type": "Aggiornamento",
       "title": "Supermarket",
       "telefoni": [
         "+39 333 1234567",
