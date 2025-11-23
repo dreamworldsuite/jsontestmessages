@@ -5,7 +5,7 @@
       "title": "Supermarket",
       "contatti": {
         "+39 333 1234567",
-        "Piazza Castello, 25",
+        "Piazza Castello 25",
         "info@example.com"
       },
       "message": "Pronti per l'estate?"
@@ -13,7 +13,7 @@
     {
       "date": "22-11-2025", "type": "Informazione",
       "title": "Supermarket",
-      "Piazza Castello, 25",
+      "Piazza Castello 25",
       "message": "Pronti per l'estate?"
     },
     {
@@ -38,7 +38,7 @@
     {
       "date": "22-11-2025", "type": "Errore",
       "title": "Negozio",
-      "Piazza Castello, 25",
+      "Piazza Castello 25",
       "contatti": {
         "+39 333 1234567",
         "info@example.com"
