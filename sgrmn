@@ -9,7 +9,7 @@
     {
       "title": "Manutenzione Programmata",
       "date": "10-01-2026",
-      "type": "Warning",
+      "type": "Avviso",
       "message": "I server saranno offline dalle 2 alle 4 del mattino."
     }
   ]
