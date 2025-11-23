@@ -1,15 +1,13 @@
 {
   "news": [
     {
-      "title": "Aggiornamento versione 2",
       "date": "22-11-2025",
-      "type": "Aggiornamento",
+      "type": "Aggiornamento", "title": "Aggiornamento versione 2",
       "message": "Bug fix e ottimizzazioni."
     },
     {
+      "date": "10-01-2026", "type": "Avviso",
       "title": "Manutenzione Programmata",
-      "date": "10-01-2026",
-      "type": "Avviso",
       "message": "I server saranno offline dalle 2 alle 4 del mattino."
     }
   ]
