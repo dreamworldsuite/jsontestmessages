@@ -4,26 +4,26 @@
       "date": "22-11-2025", "type": "Aggiornamento",
       "title": "Supermarket",
       "contatti": {
-        "telefono": "+39 333 1234567",
-        "indirizzo": "Piazza Castello, 25",
-        "email": "info@example.com"
+        "📞": "+39 333 1234567",
+        "🏢": "Piazza Castello, 25",
+        "✉": "info@example.com"
       },
-      "message": "Pronti per l'estate?"
+      "message": "💬 Pronti per l'estate?"
     },
     {
       "date": "22-11-2025", "type": "Informazione",
       "title": "Supermarket",
-      "indirizzo": "Piazza Castello, 25",
-      "message": "Pronti per l'estate?"
+      "🏢": "Piazza Castello, 25",
+      "message": "💬 Pronti per l'estate?"
     },
     {
       "date": "22-11-2025", "type": "Annuncio",
       "title": "Supermarket",
       "contatti": {
-        "telefono": "+39 333 1234567",
-        "email": "info@example.com"
+        "📞": "+39 333 1234567",
+        "✉": "info@example.com"
       },
-      "message": "Pronti per l'estate?"
+      "message": "💬 Pronti per l'estate?"
     },
     {
       "date": "22-11-2025", "type": "Avviso",
@@ -32,22 +32,22 @@
         "+39 333 1234567",
         "+39 320 9998877"
       ],
-      "indirizzo": "Piazza Castello, 25",
-      "message": "Orario 8-12"
+      "🏢": "Piazza Castello, 25",
+      "message": "💬 Orario 8-12"
     },
     {
       "date": "22-11-2025", "type": "Errore",
       "title": "Negozio",
-      "indirizzo": "Piazza Castello, 25",
+      "🏢": "Piazza Castello, 25",
       "contatti": {
-        "telefono": "+39 333 1234567",
-        "email": "info@example.com"
+        "📞": "+39 333 1234567",
+        "✉": "info@example.com"
       },
       "telefoni": [
         "+39 333 1234567",
         "+39 320 9998877"
       ],
-      "message": "Orario 8-12"
+      "message": "💬 Orario 8-12"
     },
     {
       "date": "22-11-2025", "type": "Aggiornamento",
@@ -57,10 +57,10 @@
         "+39 320 9998877"
       ],
       "contatti": {
-        "telefono": "+39 333 1234567",
-        "email": "info@example.com"
+        "📞": "+39 333 1234567",
+        "✉": "info@example.com"
       },
-      "message": "Pronti per l'estate?"
+      "message": "💬 Pronti per l'estate?"
     }
   ]
 }
