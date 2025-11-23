@@ -1,42 +1,59 @@
 {
   "news": [
     {
-      "date": "22-11-2025", "type": "Aggiornamento",
-      "title": "Supermarket",
-      "contatti": {
-        "Telefono": "+39 333 1234567",
-        "Indirizzo": "Piazza Castello 25",
-        "Email": "info@example.com"
-      },
-      "message": "Pronti per l'estate?"
-    },
-    {
-      "date": "22-11-2025", "type": "Informazione",
+      "date": "22-11-2025",
+      "type": "Aggiornamento",
       "title": "Supermarket",
       "Indirizzo": "Piazza Castello 25",
-      "message": "Pronti per l'estate?"
-    },
-    {
-      "date": "22-11-2025", "type": "Annuncio",
-      "title": "Supermarket",
       "contatti": {
         "Telefono": "+39 333 1234567",
         "Email": "info@example.com"
       },
+      "telefoni": [],
       "message": "Pronti per l'estate?"
     },
     {
-      "date": "22-11-2025", "type": "Avviso",
+      "date": "22-11-2025",
+      "type": "Informazione",
+      "title": "Supermarket",
+      "Indirizzo": "Piazza Castello 25",
+      "contatti": {
+        "Telefono": "",
+        "Email": ""
+      },
+      "telefoni": [],
+      "message": "Pronti per l'estate?"
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Annuncio",
+      "title": "Supermarket",
+      "Indirizzo": "",
+      "contatti": {
+        "Telefono": "+39 333 1234567",
+        "Email": "info@example.com"
+      },
+      "telefoni": [],
+      "message": "Pronti per l'estate?"
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Avviso",
       "title": "Negozio",
+      "Indirizzo": "Piazza Castello 25",
+      "contatti": {
+        "Telefono": "",
+        "Email": ""
+      },
       "telefoni": [
         "+39 333 1234567",
         "+39 320 9998877"
       ],
-      "Indirizzo": "Piazza Castello, 25",
       "message": "Orario 8-12"
     },
     {
-      "date": "22-11-2025", "type": "Errore",
+      "date": "22-11-2025",
+      "type": "Errore",
       "title": "Negozio",
       "Indirizzo": "Piazza Castello 25",
       "contatti": {
@@ -50,16 +67,18 @@
       "message": "Orario 8-12"
     },
     {
-      "date": "22-11-2025", "type": "Aggiornamento",
+      "date": "22-11-2025",
+      "type": "Aggiornamento",
       "title": "Supermarket",
-      "telefoni": [
-        "+39 333 1234567",
-        "+39 320 9998877"
-      ],
+      "Indirizzo": "Piazza Castello 25",
       "contatti": {
         "Telefono": "+39 333 1234567",
         "Email": "info@example.com"
       },
+      "telefoni": [
+        "+39 333 1234567",
+        "+39 320 9998877"
+      ],
       "message": "Pronti per l'estate?"
     }
   ]
