@@ -18,9 +18,9 @@
       "btnHeight": 40
     },
 	{
-      "address": "Castello",
-      "sceneName": "CastelloScene",
-      "label": "Castello Casale M.to",
+      "address": "SkyB_3",
+      "sceneName": "PalazzoScene",
+      "label": "Grattacielo",
       "hasButton": false,
       "posX": 312,
       "posY": 0,
