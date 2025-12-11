@@ -18,9 +18,9 @@
       "btnHeight": 40
     },
 	{
-      "address": "Bar",
-      "sceneName": "BarScene",
-      "label": "Bar Hollywood",
+      "address": "Castello",
+      "sceneName": "CastelloScene",
+      "label": "Castello Casale M.to",
       "hasButton": false,
       "posX": 312,
       "posY": 0,
