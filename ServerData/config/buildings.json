@@ -102,6 +102,23 @@
       "btnWidth": 220,
       "btnHeight": 40
     },
+	{
+      "address": "SkyB_3",
+      "sceneName": "SanGermanoScene",
+      "label": "San Germano",
+      "hasButton": true,
+      "posX": 335,
+      "posY": 0,
+      "posZ": 172,
+      "rotX": 0,
+      "rotY": 130,
+      "rotZ": 0,
+      "scaleX": 0.2,
+      "scaleY": 0.2,
+      "scaleZ": 0.2,
+      "btnWidth": 280,
+      "btnHeight": 40
+    },
     {
       "address": "House_1",
       "sceneName": "RoncagliaScene",
