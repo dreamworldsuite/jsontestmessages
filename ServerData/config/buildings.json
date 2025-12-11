@@ -18,9 +18,9 @@
       "btnHeight": 40
     },
 	{
-      "address": "House_1",
-      "sceneName": "CasaleMtoScene",
-      "label": "Casa mia",
+      "address": "Castello",
+      "sceneName": "CastelloScene",
+      "label": "Castello Casale M.to",
       "hasButton": false,
       "posX": 312,
       "posY": 0,
