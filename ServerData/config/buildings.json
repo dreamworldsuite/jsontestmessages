@@ -17,6 +17,23 @@
       "btnWidth": 60,
       "btnHeight": 40
     },
+	{
+      "address": "Bar",
+      "sceneName": "BarScene",
+      "label": "Bar Hollywood",
+      "hasButton": false,
+      "posX": 312,
+      "posY": 0,
+      "posZ": 225,
+      "rotX": 0,
+      "rotY": 160,
+      "rotZ": 0,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
+      "btnWidth": 60,
+      "btnHeight": 40
+    },
     {
       "address": "Bar",
       "sceneName": "BarScene",
