@@ -19,7 +19,7 @@
     },
 	{
       "address": "SkyB_3",
-      "sceneName": "PalazzoScene",
+      "sceneName": "SkyScene",
       "label": "Grattacielo",
       "hasButton": false,
       "posX": 312,
