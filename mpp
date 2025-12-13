@@ -6,6 +6,16 @@
       "message": "Nuovo sistema missioni, bug fix e ottimizzazioni."
     },
     {
+      "date": "14-02-2025", "type": "Errore",
+      "title": "Nuovo Evento Speciale",
+      "message": "Partecipa all'evento di San Valentino per monete extra!"
+    },
+	{
+      "date": "12-11-2025", "type": "Annuncio",
+      "title": "Aggiornamento versione 1.2",
+      "message": "Nuovo sistema missioni, bug fix e ottimizzazioni."
+    },
+    {
       "date": "14-02-2025", "type": "Informazione",
       "title": "Nuovo Evento Speciale",
       "message": "Partecipa all'evento di San Valentino per monete extra!"
