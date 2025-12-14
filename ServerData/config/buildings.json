@@ -3,7 +3,7 @@
     {
       "address": "Castello",
       "sceneName": "CasaleMtoScene",
-      "label": "Castello Casale Monferrato",
+      "label": "Casale Monferrato",
       "hasButton": true,
       "posX": 325,
       "posY": 0,
@@ -11,9 +11,9 @@
       "rotX": 0,
       "rotY": 130,
       "rotZ": 0,
-      "scaleX": 0.2,
-      "scaleY": 0.2,
-      "scaleZ": 0.2,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
       "btnWidth": 280,
       "btnHeight": 40
     },
@@ -82,13 +82,13 @@
       "scaleX": 0.3,
       "scaleY": 0.3,
       "scaleZ": 0.3,
-      "btnWidth": 250,
+      "btnWidth": 240,
       "btnHeight": 40
     },
 	{
       "address": "SkyB_3",
       "sceneName": "SanGermanoScene",
-      "label": "Sky San Germano",
+      "label": "San Germano",
       "hasButton": true,
       "posX": 335,
       "posY": 0,
@@ -99,7 +99,7 @@
       "scaleX": 0.2,
       "scaleY": 0.2,
       "scaleZ": 0.2,
-      "btnWidth": 280,
+      "btnWidth": 220,
       "btnHeight": 40
     },
     {
@@ -122,13 +122,13 @@
     {
       "address": "Bar",
       "sceneName": "RoncagliaScene",
-      "label": "Bar Roncaglia",
+      "label": "Roncaglia",
       "hasButton": true,
       "posX": 325,
       "posY": 0,
       "posZ": 130,
       "rotX": 0,
-      "rotY": 40,
+      "rotY": 200,
       "rotZ": 0,
       "scaleX": 0.3,
       "scaleY": 0.3,
