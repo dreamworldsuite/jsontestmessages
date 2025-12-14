@@ -1,40 +1,9 @@
 {
   "title": "Frassineto Po News",
-  "updatedAt": "2025-12-14T09:00:00Z",
+  "updatedAt": "2025-12-14T15:00:00Z",
   "news": [
     {
-      "date": "22-11-2025",
-      "type": "Aggiornamento",
-      "title": "Supermarket",
-      "message": "Pronti per l'estate?",
-      "Indirizzo": "Piazza Castello 25",
-      "telefoni": [
-        "+39 320 9998877"
-      ]
-    },
-    {
-      "date": "22-11-2025",
-      "type": "Informazione",
-      "title": "Supermarket",
-      "message": "Pronti per l'estate?",
-      "contatti": {
-        "Telefono": "+39 333 1234567",
-        "Email": "info@example.com"
-      }
-    },
-    {
-      "date": "22-11-2025",
-      "type": "Annuncio",
-      "title": "Supermarket",
-      "message": "Pronti per l'estate?",
-      "Indirizzo": "Piazza Castello 25",
-      "telefoni": [
-        "+39 333 1234567",
-        "+39 320 9998877"
-      ],
-    },
-    {
-      "date": "22-11-2025",
+      "date": "14-12-2025",
       "type": "Avviso",
       "title": "Negozio",
       "telefoni": [
@@ -45,7 +14,7 @@
       "message": "Orario 8-12"
     },
     {
-      "date": "22-11-2025",
+      "date": "14-12-2025",
       "type": "Errore",
       "title": "Negozio",
       "contatti": {
@@ -60,7 +29,7 @@
       "message": "Orario 8-12"
     },
     {
-      "date": "22-11-2025",
+      "date": "13-12-2025",
       "type": "Aggiornamento",
       "title": "Supermarket",
       "telefoni": [

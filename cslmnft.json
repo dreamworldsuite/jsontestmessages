@@ -1,20 +1,10 @@
 {
   "title": "Casale Monferrato News",
-  "updatedAt": "2025-12-14T09:00:00Z",
+  "updatedAt": "2025-12-14T15:00:00Z",
   "news": [
     {
-      "date": "22-11-2025",
-      "type": "Aggiornamento",
-      "title": "Supermarket",
-      "message": "Pronti per l'estate?",
-      "Indirizzo": "Piazza Castello 25",
-      "telefoni": [
-        "+39 320 9998877"
-      ]
-    },
-    {
-      "date": "22-11-2025",
-      "type": "Informazione",
+      "date": "14-12-2025",
+      "type": "Pubblicità",
       "title": "Supermarket",
       "message": "Pronti per l'estate?",
       "contatti": {
@@ -23,56 +13,13 @@
       }
     },
     {
-      "date": "22-11-2025",
+      "date": "14-12-2025",
       "type": "Annuncio",
       "title": "Supermarket",
-      "message": "Pronti per l'estate?",
-      "Indirizzo": "Piazza Castello 25",
       "telefoni": [
         "+39 333 1234567",
         "+39 320 9998877"
-      ],
-    },
-    {
-      "date": "22-11-2025",
-      "type": "Avviso",
-      "title": "Negozio",
-      "telefoni": [
-        "+39 333 1234567",
-        "+39 320 9998877"
-      ],
-      "Indirizzo": "Piazza Castello 25",
-      "message": "Orario 8-12"
-    },
-    {
-      "date": "22-11-2025",
-      "type": "Errore",
-      "title": "Negozio",
-      "contatti": {
-        "Indirizzo": "Piazza Castello 25",
-        "Telefono": "+39 333 1234567",
-        "Email": "info@example.com"
-      },
-      "telefoni": [
-        "+39 333 1234567",
-        "+39 320 9998877"
-      ],
-      "message": "Orario 8-12"
-    },
-    {
-      "date": "22-11-2025",
-      "type": "Aggiornamento",
-      "title": "Supermarket",
-      "telefoni": [
-        "+39 333 1234567",
-        "+39 320 9998877"
-      ],
-      "contatti": {
-        "Indirizzo": "Piazza Castello 25",
-        "Telefono": "+39 333 1234567",
-        "Email": "info@example.com"
-      },
-      "message": "Pronti per l'estate?"
+      ]
     }
   ]
 }

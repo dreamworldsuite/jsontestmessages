@@ -1,18 +1,18 @@
 {
   "title": "San Germano News",
-  "updatedAt": "2025-12-14T09:00:00Z",
+  "updatedAt": "2025-12-14T15:00:00Z",
   "news": [
-    {
-      "date": "22-11-2025",
-      "type": "Aggiornamento", 
-	  "title": "Aggiornamento versione 2",
-      "message": "Bug fix e ottimizzazioni."
-    },
     {
       "date": "10-01-2026", 
 	  "type": "Avviso",
       "title": "Manutenzione Programmata",
       "message": "I server saranno offline dalle 2 alle 4 del mattino."
+    },
+    {
+      "date": "22-11-2025",
+      "type": "Aggiornamento", 
+	  "title": "Aggiornamento versione 2",
+      "message": "Bug fix e ottimizzazioni."
     }
   ]
 }

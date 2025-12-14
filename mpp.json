@@ -1,36 +1,42 @@
 {
   "title": "Monferrato News",
-  "updatedAt": "2025-12-14T09:00:00Z",
+  "updatedAt": "2025-12-14T15:00:00Z",
   "news": [
     {
-      "date": "14-02-2025", 
-	  "type": "Errore",
-      "title": "Nuovo Evento Speciale",
-      "message": "Partecipa all'evento di San Valentino per monete extra!"
-    },
-    {
-      "date": "12-11-2025", 
-	  "type": "Aggiornamento",
-      "title": "Aggiornamento versione 1.2",
-      "message": "Nuovo sistema missioni, bug fix e ottimizzazioni."
-    },
-    {
-      "date": "14-12-2025", 
+      "date": "27-12-2025", 
 	  "type": "Avviso",
       "title": "Manutenzione Programmata Dicembre 2025",
       "message": "I server saranno offline dalle 2 alle 4 del mattino."
     },
-	{
-      "date": "12-11-2025", 
+    {
+      "date": "25-02-2025", 
 	  "type": "Annuncio",
+      "title": "Nuovo Evento Speciale",
+      "message": "Partecipa all'evento di Natale!"
+    },
+    {
+      "date": "14-12-2025", 
+	  "type": "Aggiornamento",
       "title": "Aggiornamento versione 1.2",
       "message": "Nuovo sistema missioni, bug fix e ottimizzazioni."
+    },
+	{
+      "date": "15-08-2025", 
+	  "type": "Annuncio",
+      "title": "Ferragosto",
+      "message": "Vi aspettiamo alle piscine di Casale Monferrato"
     },
     {
       "date": "14-02-2025", 
 	  "type": "Informazione",
       "title": "Nuovo Evento Speciale",
       "message": "Partecipa all'evento di San Valentino per monete extra!"
+    },
+    {
+      "date": "14-01-2025", 
+	  "type": "Informazione",
+      "title": "Auguri",
+      "message": "Felice anno nuovo!"
     }
   ]
 }
