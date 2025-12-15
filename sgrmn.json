@@ -1,7 +1,17 @@
 {
   "title": "San Germano News",
-  "updatedAt": "2025-12-14T15:00:00Z",
+  "updatedAt": "2025-12-15T15:00:00Z",
   "news": [
+    {
+      "date": "22-12-2025", 
+	  "type": "Pubblicità",
+      "title": "Evento Speciale",
+      "message": "Nuova Apertura Benzinaio",
+      "contatti": {
+        "Telefono": "+39 333 1234567",
+        "Email": "info@example.com"
+      }
+    },
     {
       "date": "10-01-2026", 
 	  "type": "Avviso",

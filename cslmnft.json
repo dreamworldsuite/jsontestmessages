@@ -1,7 +1,18 @@
 {
   "title": "Casale Monferrato News",
-  "updatedAt": "2025-12-14T15:00:00Z",
+  "updatedAt": "2025-12-15T15:00:00Z",
   "news": [
+    {
+      "date": "08-01-2026",
+      "type": "Annuncio",
+      "title": "Lavoro",
+      "message": "A partire da gennaio nuove assunzioni",
+      "contatti": {
+        "Indirizzo": "Zona Industriale, Via Cavalli 6",
+        "Telefono": "+39 333 1234567",
+        "Email": "info@example.com"
+      }
+    },
     {
       "date": "14-12-2025",
       "type": "Pubblicità",
@@ -14,7 +25,7 @@
     },
     {
       "date": "14-12-2025",
-      "type": "Annuncio",
+      "type": "Errore",
       "title": "Supermarket",
       "telefoni": [
         "+39 333 1234567",
