@@ -12,9 +12,9 @@
       "rotX": 0,
       "rotY": 180,
       "rotZ": 0,
-      "scaleX": 2.0,
-      "scaleY": 2.0,
-      "scaleZ": 2.0,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
       "btnWidth": 280,
       "btnHeight": 40
     },
@@ -138,9 +138,9 @@
       "rotX": 0,
       "rotY": 180,
       "rotZ": 0,
-      "scaleX": 2.0,
-      "scaleY": 2.0,
-      "scaleZ": 2.0,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
       "btnWidth": 220,
       "btnHeight": 40
     },
@@ -177,7 +177,7 @@
       "scaleX": 0.3,
       "scaleY": 0.3,
       "scaleZ": 0.3,
-      "btnWidth": 185,
+      "btnWidth": 220,
       "btnHeight": 40
     },
 	{
@@ -247,10 +247,10 @@
       "rotX": 0,
       "rotY": 180,
       "rotZ": 0,
-      "scaleX": 3.0,
-      "scaleY": 3.0,
-      "scaleZ": 3.0,
-      "btnWidth": 150,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
+      "btnWidth": 170,
       "btnHeight": 40
     },
     {
