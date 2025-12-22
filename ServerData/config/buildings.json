@@ -1,9 +1,9 @@
 {
   "edifici": [
     {
-      "address": "Cartellone_L",
+      "address": "Casa_1",
       "sceneName": "CasaleMtoScene",
-      "label": "Entra",
+      "label": "Casale Monferrato",
       "hasButton": true,
 	  "isCritical": true,
       "posX": 325,
@@ -15,13 +15,13 @@
       "scaleX": 2.0,
       "scaleY": 2.0,
       "scaleZ": 2.0,
-      "btnWidth": 100,
+      "btnWidth": 280,
       "btnHeight": 40
     },
 	{
-      "address": "Meccanico",
+      "address": "Forno",
       "sceneName": "CasaleMtoScene",
-      "label": "Autoriparazioni",
+      "label": "Panetteria",
       "hasButton": false,
 	  "isCritical": true,
       "posX": 332,
@@ -73,9 +73,9 @@
       "btnHeight": 40
     },
     {
-      "address": "Pizzeria",
+      "address": "Stadio",
       "sceneName": "CasaleMtoScene",
-      "label": "Pizzeria Casale",
+      "label": "Stadio",
       "hasButton": false,
 	  "isCritical": true,
       "posX": 326,
@@ -91,11 +91,11 @@
       "btnHeight": 40
     },
     {
-      "address": "Stadio",
+      "address": "Casa_2",
       "sceneName": "StadioScene",
-      "label": "Stadio Casale M.to",
+      "label": "Casa",
       "hasButton": false,
-	  "isCritical": false,
+	  "isCritical": true,
       "posX": 310,
       "posY": 0,
       "posZ": 228,
@@ -109,9 +109,9 @@
       "btnHeight": 40
     },
     {
-      "address": "Supermarket",
+      "address": "Condominio",
       "sceneName": "CasaleMtoScene",
-      "label": "Supermarket Casale M.to",
+      "label": "Casa",
       "hasButton": false,
 	  "isCritical": true,
       "posX": 315,
@@ -127,9 +127,9 @@
       "btnHeight": 40
     },
     {
-      "address": "Cartellone_M",
+      "address": "Casa_3",
       "sceneName": "FrassinetoScene",
-      "label": "Entra",
+      "label": "Frassineto Po",
       "hasButton": true,
 	  "isCritical": true,
       "posX": 400,
@@ -141,15 +141,15 @@
       "scaleX": 2.0,
       "scaleY": 2.0,
       "scaleZ": 2.0,
-      "btnWidth": 100,
+      "btnWidth": 220,
       "btnHeight": 40
     },
     {
-      "address": "House_2",
+      "address": "Condominio",
       "sceneName": "FrassinetoScene",
       "label": "Frassineto Po",
       "hasButton": false,
-	  "isCritical": false,
+	  "isCritical": true,
       "posX": 380,
       "posY": 0,
       "posZ": 205,
@@ -163,9 +163,9 @@
       "btnHeight": 40
     },
 	{
-      "address": "SkyS_2",
+      "address": "Casa_4",
       "sceneName": "SanGermanoScene",
-      "label": "Entra",
+      "label": "San Germano",
       "hasButton": true,
 	  "isCritical": true,
       "posX": 335,
@@ -177,7 +177,7 @@
       "scaleX": 0.3,
       "scaleY": 0.3,
       "scaleZ": 0.3,
-      "btnWidth": 100,
+      "btnWidth": 185,
       "btnHeight": 40
     },
 	{
@@ -185,7 +185,7 @@
       "sceneName": "SanGermanoScene",
       "label": "Benzinaio San Germano",
       "hasButton": false,
-	  "isCritical": false,
+	  "isCritical": true,
       "posX": 315,
       "posY": 0,
       "posZ": 193,
@@ -216,10 +216,29 @@
       "btnWidth": 60,
       "btnHeight": 40
     },
+	
     {
-      "address": "Cartellone_S",
+      "address": "Market",
+      "sceneName": "SanGermanoScene",
+      "label": "Market",
+      "hasButton": false,
+	  "isCritical": true,
+      "posX": 340,
+      "posY": 0,
+      "posZ": 167,
+      "rotX": 0,
+      "rotY": 210,
+      "rotZ": 0,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
+      "btnWidth": 60,
+      "btnHeight": 40
+    },
+    {
+      "address": "SkyS",
       "sceneName": "RoncagliaScene",
-      "label": "Entra",
+      "label": "Roncaglia",
       "hasButton": true,
 	  "isCritical": true,
       "posX": 325,
@@ -231,7 +250,7 @@
       "scaleX": 3.0,
       "scaleY": 3.0,
       "scaleZ": 3.0,
-      "btnWidth": 100,
+      "btnWidth": 150,
       "btnHeight": 40
     },
     {
@@ -245,6 +264,42 @@
       "posZ": 120,
       "rotX": 0,
       "rotY": 110,
+      "rotZ": 0,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
+      "btnWidth": 180,
+      "btnHeight": 40
+    },
+    {
+      "address": "Caffe",
+      "sceneName": "RoncagliaScene",
+      "label": "Benzinaio Roncaglia",
+      "hasButton": false,
+	  "isCritical": true,
+      "posX": 335,
+      "posY": 0,
+      "posZ": 115,
+      "rotX": 0,
+      "rotY": 170,
+      "rotZ": 0,
+      "scaleX": 0.3,
+      "scaleY": 0.3,
+      "scaleZ": 0.3,
+      "btnWidth": 180,
+      "btnHeight": 40
+    },
+    {
+      "address": "Farmacia",
+      "sceneName": "RoncagliaScene",
+      "label": "Farmacia",
+      "hasButton": false,
+	  "isCritical": true,
+      "posX": 337,
+      "posY": 0,
+      "posZ": 140,
+      "rotX": 0,
+      "rotY": 140,
       "rotZ": 0,
       "scaleX": 0.3,
       "scaleY": 0.3,
