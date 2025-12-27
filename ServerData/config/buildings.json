@@ -273,7 +273,7 @@
 	{
       "address": "Casa_3",
       "sceneName": "SanGermanoScene",
-      "label": "Casa",
+      "label": "San Germano",
       "hasButton": true,
 	  "isCritical": true,
       "source": "local",
